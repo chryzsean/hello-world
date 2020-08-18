@@ -1,2 +1,2 @@
 # hello-world
-New repository
+Hello, Im Bryant. I like to code in python
